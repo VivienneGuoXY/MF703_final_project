@@ -1,16 +1,16 @@
 # MF703_final_project
 
 先建一个文件夹
->cd desktop/文件夹名
+>cd desktop/<文件夹名>
 
 
 >git clone https://github.com/ShenghengLi/MF703_final_project.git 
 
 基础设定（方便查看修改者）
->git config --global user.name "..."
+>git config --global user.name "<填入名字>"
 
 
->git config --global user.email "..."
+>git config --global user.email "<填入email>"
 
 
 >git config --global init.default branch main
