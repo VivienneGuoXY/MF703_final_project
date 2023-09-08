@@ -29,7 +29,7 @@ or by SSH. Note: you might need to setup your public key. Refer to online tutori
 >git status
 >git status -u # show untracked files
 
-Create your work branch
+Create your work branch. DO NOT work on main branch.
 >git checkout -b <branch_name>
 >git branch
 
