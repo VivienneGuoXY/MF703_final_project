@@ -12,7 +12,7 @@ Clone this project to your
 or by SSH. Note: you might need to setup your public key. Refer to online tutorials.
 
 基础设定（方便查看修改者）
->git config pull.rebase false# merge
+>git config pull.rebase false
 
 >git config --global user.name "<填入名字>"
 
