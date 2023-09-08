@@ -33,10 +33,13 @@ or by SSH. Note: you might need to setup your public key. Refer to online tutori
 
 >git status -u # show untracked files
 
-Create your work branch. DO NOT work on main branch.
+创造自己的branch（不要直接修改main）
 >git checkout -b <branch_name>
 
 >git branch
+
+删除自己的branch
+>git push -d origin <branch_name>
 
 Checkout ("switch") to a new branch
 >git fetch origin
