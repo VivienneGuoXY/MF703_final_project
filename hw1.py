@@ -1,3 +1,4 @@
+# 试着在这个文件上做修改
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -26,5 +27,8 @@ if __name__ == '__main__':
     date = get_first_n_date(filename)
     close = get_first_n_close(filename)
     plot_date_close(date,close)
+<<<<<<< HEAD
 
     print('modified')
+=======
+>>>>>>> 90afa8ac8ae0582f757cba1eba638e2d78d22c35
