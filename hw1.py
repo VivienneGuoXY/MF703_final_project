@@ -26,3 +26,5 @@ if __name__ == '__main__':
     date = get_first_n_date(filename)
     close = get_first_n_close(filename)
     plot_date_close(date,close)
+
+    print('modified')
