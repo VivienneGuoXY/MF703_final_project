@@ -4,10 +4,15 @@
 >cd desktop/<文件夹名>
 >git clone https://github.com/ShenghengLi/MF703_final_project.git 
 
-基础设定：
+基础设定（方便查看修改者）
 >git config --global user.name "<...>"
 >git config --global user.email "<...>"
 >git config --global init.default branch main
+
+查看修改记录
+>git log
+或者
+>git log --oneline
 
 查看local和github上文件的区别
 >git status
