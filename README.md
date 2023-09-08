@@ -31,7 +31,7 @@ or by SSH. Note: you might need to setup your public key. Refer to online tutori
 查看local和github上文件的区别
 >git status
 
->git status -u # show untracked files
+>git status -u
 
 创造自己的branch（不要直接修改main）
 >git checkout -b <branch_name>
@@ -64,6 +64,6 @@ Checkout ("switch") to a new branch
 Push your change to remote.
 >git pull
 
->git merge # optional if no change in remote
+>git merge
 
 >git push
