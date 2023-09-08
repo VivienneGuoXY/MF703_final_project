@@ -20,7 +20,7 @@ or by SSH. Note: you might need to setup your public key. Refer to online tutori
 
 >git config --global init.default branch main
 
->git config --global credential.helper store # remember all your git credentials
+>git config --global credential.helper store
 
 
 查看修改记录
