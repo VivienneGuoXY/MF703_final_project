@@ -2,7 +2,8 @@
 
 先建一个文件夹
 >cd desktop/文件夹名
-然后
+
+
 >git clone https://github.com/ShenghengLi/MF703_final_project.git 
 
 基础设定（方便查看修改者）
