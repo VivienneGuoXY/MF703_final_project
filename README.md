@@ -49,12 +49,12 @@ Checkout ("switch") to a new branch
 更新自己的本地文件
 >git pull
 
-添加新文件（修改完之后也要再add一遍
+添加新文件（修改完之后也要再add一遍)
 >git add <文件名>
 
 >git commit -m "<填入关于修改的说明（必须有东西）>"
 
->git pull
+>git push
 
 删除文件
 >git rm <文件名>
