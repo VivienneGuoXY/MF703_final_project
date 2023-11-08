@@ -27,10 +27,9 @@ if __name__ == '__main__':
     date = get_first_n_date(filename)
     close = get_first_n_close(filename)
     plot_date_close(date,close)
-
-print("xinyi edit")
 <<<<<<< HEAD
 
     print('modified')
+    print('vivi')
 =======
 >>>>>>> 90afa8ac8ae0582f757cba1eba638e2d78d22c35
